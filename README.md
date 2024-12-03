@@ -38,9 +38,10 @@ Week 10:
   Day 3:
   - Build backend and frontend for the azure function
   - Build and deploy azure function
+  - Begin learning controllers
 
   Day 4:
-  - Begin learning controllers
+  - Continue learning controllers
 
   Day 5:
   - Continue learning controllers
