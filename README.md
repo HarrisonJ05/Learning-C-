@@ -33,6 +33,7 @@ Week 10:
   Day 2:
   - Continue with azure functions
   - Plan to build and deploy azure function
+  - Begin thinking about the project I want to make
     
   Day 3:
   - Build backend and frontend for the azure function
@@ -47,11 +48,11 @@ Week 10:
 Week 11:
 
   Day 1:
-  - Begin thinking about the project I want to make
   - Continue C# and Azure learning path
+  - Start working on prject
 
   Day 2:
-  - Begin to draw up and plan the project ready to start building
+  - Draw up and plan the project ready to start building
   - Start building
 
   Day 3:
